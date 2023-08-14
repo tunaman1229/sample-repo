@@ -1,3 +1,3 @@
 # Hello,git!!
-update test
-config
+Update test
+Config
